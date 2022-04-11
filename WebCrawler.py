@@ -1,7 +1,7 @@
 import requests
 import re
 
-to_crawl = ['http://solyd.com.br']
+to_crawl = ['http://website.com.br']
 crawled = set()
 emails_found = set()
 
